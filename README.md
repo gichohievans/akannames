@@ -35,5 +35,7 @@ visual studio code
 ### License
 *Licensed under the GPL V3.0
 [!license](https://github.com/gichohievans/akannames/blob/main/LICENSE)
-Gichohi-KE 2021 (c)**{List of contributors or company name}**
+Gichohi-KE 2021 (c)
+
+**{List of contributors or company name}**
 Gichohi-KE 2021 (c)
