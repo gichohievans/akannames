@@ -18,6 +18,8 @@ This is a a web application that takes a user's birthday and calculates the day 
     - Click the submit button to see what my Akan name would be
 ## Live link
     Deployed project can be accessed here 
+
+    
     - [Akan Names Generator](https://gichohievans.github.io/akannames/)
 ## Technologies used
     - HTML
