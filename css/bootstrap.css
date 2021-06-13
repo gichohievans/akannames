@@ -52,6 +52,8 @@ body {
   line-height: 1.5;
   color: #212529;
   background-image: url("images/451.jpg");
+  background-size: cover;
+  background-color: aquamarine;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -1140,6 +1142,7 @@ progress {
   .col-md-5 {
     flex: 0 0 auto;
     width: 41.6666666667%;
+    background-color: black;
   }
 
   .col-md-6 {

@@ -42,32 +42,32 @@ var submission = function() {
     }
     
    if ((year < 1900) || (year > 2021)) {
-      output.style.background ="white"
+      output.style.background ="black"
       output.style.color= "red"
       output.innerHTML = "Hello " + name + ", please enter a valid year! "
   }
     
   else if ((month < 1) || (month > 12)) {
-      output.style.background ="white"
+      output.style.background ="black"
       output.style.color= "red"
       output.innerHTML = "Hello " + name + ", please enter a valid month! "
   }
     
    else if (day < 0 || day > 31) {
-      output.style.background ="white"
+      output.style.background ="black"
       output.style.color= "red"
       output.innerHTML = "Hello " + name + ", please enter a valid day! "
   }
 
   
     if(male.checked && year > 0 && year <2022 && month > 0 && month < 13 && day > 0 && day < 32) {
-      output.style.background ="white"
+      output.style.background ="black"
       output.style.color= "green"
         output.innerHTML = "Hello " + name + ":  You were born on a " + daysOfTheWeek[results] + " and your Akan name is " + maleNames[results];
     }
      else if(female.checked && year > 0 && year <2022 && month > 0 && month < 12 && day > 0 && day < 32) {
-      output.style.background ="white"
-      output.style.background ="green"
+      output.style.background ="black"
+      output.style.color ="green"
       output.innerHTML = "Hello " + name + ":  You were born on a " + daysOfTheWeek[results] + " and your Akan name is " + femaleNames[results];
   }
   
