@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+    padding: 20px;
+    border: 10px solid;
+}
+.card1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+  }
+  footer{
+      height: 350px;
+     
+      
+  }
