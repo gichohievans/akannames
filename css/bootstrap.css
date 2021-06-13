@@ -4245,6 +4245,7 @@ textarea.form-control-lg {
 
 .card {
   position: relative;
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
   min-width: 0;
